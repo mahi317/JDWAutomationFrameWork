@@ -1,0 +1,10 @@
+<suite name = "JDWsuite">
+  <parameter name ="url" value = "https://www.jdwilliams.co.uk/"/>
+  <parameter name ="username" value= "Mahesh@123"/>
+  <parameter name ="password" value="Asdf@123"/>
+  <test name ="JDWtest">
+     <classes>
+        <class name ="testNgOne.XMLParameterOne"/>
+     </classes>
+  </test>
+</suite>

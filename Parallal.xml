@@ -1,0 +1,37 @@
+<suite name = "QLCADDA" parallel= "tests" thread-count="10">
+   <test name = "TestRunner1">
+      <classes>
+        <class name = "testNgOne.Test1"/>"
+      </classes>
+   </test>
+   
+
+    <test name = "TestRunner2">
+      <classes>
+        <class name = "testNgOne.Test2"/>"
+      </classes>
+    </test>
+    
+    
+  <test name = "TestRunner3">
+      <classes>
+        <class name = "testNgOne.Test3"/>"
+      </classes>
+   </test>
+   
+   <test name = "TestRunner4">
+      <classes>
+        <class name = "testNgOne.Test4"/>"
+      </classes>
+   </test>
+   
+   <test name = "TestRunner5">
+      <classes>
+        <class name = "testNgOne.Test5"/>"
+      </classes>
+   </test>
+   
+   
+   
+
+</suite>
